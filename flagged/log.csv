@@ -1,0 +1,3 @@
+input_image,output,flag,username,timestamp
+flagged/input_image/8ef718928153f5c04fd4/fake_image.jpg,"The image is FAKE. 
+Confidence score is: 61.54",,,2024-09-08 19:51:09.845422
