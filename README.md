@@ -13,6 +13,8 @@ pinned: false
 ```
 cmd
 cd MultiDeepFakeDetection/
+pip install upgrade
+pip install gradio
 pip install -r requirements.txt
 python app.py
 ```
