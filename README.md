@@ -11,8 +11,8 @@ pinned: false
 #### Run the command below to use gradio to run the model.
 
 ```
+cmd
 cd MultiDeepFakeDetection/
 pip install -r requirements.txt
-cmd
 python app.py
 ```
